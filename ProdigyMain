@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/boygamer1/AdoptMeWinter/refs/heads/main/MinigameFarm", true))()
+loadstring(game:HttpGet('https://gitfront.io/r/ReQiuYTPL/wFUydaK74uGx/hub/raw/ReQiuYTPLHub.lua'))()
 loadstring(game:HttpGet("https://egorikusa.space/86a531670e09f0d27a0d2444.lua", true))()
